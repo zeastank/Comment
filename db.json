@@ -1,13 +1,4 @@
-{
-    "rajaongkir": {
-        "query": {
-            "key": "ffe84bde1d860acce02b95c89af20387"
-        },
-        "status": {
-            "code": 200,
-            "description": "OK"
-        },
-        "results": [
+[
             {
                 "province_id": "1",
                 "province": "Bali"
@@ -145,5 +136,3 @@
                 "province": "Sumatera Utara"
             }
         ]
-    }
-}
